@@ -75,6 +75,4 @@ Epilepsy is a neurological disorder characterized by recurrent seizures, and tim
 - Optionally: keras/tensorflow for neural networks (check code/notebooks)
 - Jupyter Notebook for reproducible research
 
-
-
-[20](https://github.com/topics/epilepsy)
+<img width="1536" height="1024" alt="bc4877ba-f095-463c-8a9d-504b6b1d76da" src="https://github.com/user-attachments/assets/7c85d50b-6338-4785-bd76-2bd01c3759c3" />
